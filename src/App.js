@@ -1,8 +1,8 @@
 import React from 'react'
-import RefsArray from './refs-array'
+import RefsStateFunc from './state-class'
 
 function App() {
-    return <RefsArray/>
+    return <RefsStateFunc/>
 }
 
 export default App
