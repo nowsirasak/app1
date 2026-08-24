@@ -1,8 +1,10 @@
-import React from 'react'
-import RefsStateFunc from './state-class'
+import React from 'react';
+import Effect from './effect';
 
 function App() {
-    return <RefsStateFunc/>
+  return (
+    <Effect />
+  );
 }
 
-export default App
+export default App;
